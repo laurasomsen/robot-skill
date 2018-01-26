@@ -1,0 +1,7 @@
+{
+  "utterance": "Tic",
+  "intent_type": "WhatsYourNameIntent",
+  "intent": {
+    "WhatsYourNameKeyword": "tic"
+  }
+}

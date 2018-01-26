@@ -1,0 +1,7 @@
+{
+  "utterance": "Top",
+  "intent_type": "WhatsYourNameIntent",
+  "intent": {
+    "WhatsYourNameKeyword": "top"
+  }
+}

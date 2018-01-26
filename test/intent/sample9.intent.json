@@ -1,0 +1,7 @@
+{
+  "utterance": "Boo",
+  "intent_type": "WhatsYourNameIntent",
+  "intent": {
+    "WhatsYourNameKeyword": "boo"
+  }
+}
